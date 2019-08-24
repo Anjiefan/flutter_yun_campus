@@ -5,6 +5,11 @@ Language: [English](https://github.com/Anjiefan/flutter_yun_campus/blob/master/R
 
 ------------
 
+### APP3.0版本视频展示
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://www.finerit.com/media/yunzhixiao.mp4)
+
+------------
+
 ### 编程语言
 [Dart](https://www.dartlang.org/dart-2 "Dart")    flutter研发的基础语言<br/>
 [Python](https://www.python.org/downloads/release/python-366/ "Python")  完成APP服务器端研发<br/>
